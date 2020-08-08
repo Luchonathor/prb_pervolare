@@ -1,8 +1,8 @@
 # prb_pervolare
 
-El bakcend se desarrolló usando experess
-El forntend de se desarrolló en javacript, ajax
-La base de datos se realizó en mySQL
+* El bakcend se desarrolló usando experess
+* El forntend de se desarrolló en javacript, ajax
+* La base de datos se realizó en mySQL
 
 Instrucciones
 1. Subir el archivo database que se encuentra en la raiz del proyecto
